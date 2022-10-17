@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "jquery-typeahead": "^2.11.1"
+  }
+}
